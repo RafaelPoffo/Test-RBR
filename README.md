@@ -14,11 +14,13 @@ A aplicação roda em dois terminais, um com o Frontend e outro com o Backend. C
 - **Frontend:**
   - Na raiz do projeto, execute o seguinte comando:
     yarn
+    
     yarn dev
     
 - **Backend:**
   - Navegue até a pasta `src/api` e execute o seguinte comando:
     yarn
+    
     node server.js
     
 
